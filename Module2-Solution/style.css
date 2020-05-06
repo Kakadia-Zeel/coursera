@@ -15,6 +15,7 @@ p{
 	width: 90%;
 	padding-left: 10px;
 	clear: both;
+	font-size: 1.2em;
 }
 
 .backg{
@@ -23,14 +24,14 @@ p{
 	float: left;
 	background-color: #f1e8b8;
 	margin:10px;
-	border:2px solid black;
+	border:1px solid black;
 	
 
 }
-h4{
+h3{
 	width: 100px;
 	height: 35px;
-	border: black 2px solid;
+	border: black 1px solid;
 	float: right;
 	margin: 0px;
 	margin-bottom: auto;
